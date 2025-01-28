@@ -18,3 +18,4 @@ Both ChatGPT-4o and DeepSeek R1 successfully proved by induction that for all po
 
 Total Marks so far: ChatGPT 7, DeepSeek 17
 
+## Question 3
