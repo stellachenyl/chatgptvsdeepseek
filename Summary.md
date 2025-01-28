@@ -27,3 +27,9 @@ Question 3b Summary: The problem asks to find the value of a^5 + b^5 + c^5 + d^5
 Question 3c Summary: Both ChatGPT and DeepSeek correctly computed the value of a^8 + b^8 + c^8 + d^8, arriving at the final answer of 388. ChatGPT provided a detailed step-by-step solution that involved expressing the higher powers of the roots in terms of lower powers and using Vieta’s relations to simplify the calculations. DeepSeek followed a similar approach, beginning with the given quartic equation, squaring it to find x^8, and then using known sums of powers of the roots to compute the desired result. Despite differences in their presentation, both methods were accurate, earning them equal scores for this task.
 
 Total Marks so far: ChatGPT 14, DeepSeek 27
+
+## Question 4
+
+Question 4a summary: DeepSeek's solution was correct, and ChatGPT made an error in its approach. The mistake in ChatGPT's solution occurred during the partial fraction decomposition step, where the coefficients A and B were calculated incorrectly. This error led to an invalid decomposition, which caused the subsequent steps, including the telescoping sum, to produce an incorrect result. DeepSeek, on the other hand, derived the correct partial fraction decomposition and accurately simplified the telescoping sum, resulting in the correct expression: k / (5 + k) - k / (5(n + 1) + k). This highlights that while ChatGPT provided detailed steps, its calculations were flawed, whereas DeepSeek successfully maintained accuracy throughout.
+
+Total Marks so far: ChatGPT 14, DeepSeek 31
