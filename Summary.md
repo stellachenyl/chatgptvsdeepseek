@@ -14,3 +14,7 @@ Total Marks so far: ChatGPT 1, DeepSeek 10
 
 ## Question 2
 
+Both ChatGPT-4o and DeepSeek R1 successfully proved by induction that for all positive integers n, the n-th derivative of arctan(x) equals P_n(x)(1 + x²)^-n, where P_n(x) is a polynomial of degree n-1: the base case (n=1) showed d/dx(arctan x) = 1/(1 + x²) with P_1(x) = 1 (degree 0), the inductive hypothesis assumed validity for n=k (d^k/dx^k(arctan x) = P_k(x)(1 + x²)^-k), and the inductive step for n=k+1 derived d^(k+1)/dx^(k+1)(arctan x) by differentiating P_k(x)(1 + x²)^-k via product/chain rules, yielding P_{k+1}(x) = [P_k’(x)(1 + x²) – 2k x P_k(x)] (a polynomial of degree k), thus confirming the form P_{k+1}(x)(1 + x²)^-(k+1). Both models demonstrated rigorous logic, with DeepSeek providing marginally deeper algebraic detail, though they scored equally (6/6), validating the induction proof.
+
+Total Marks so far: ChatGPT 7, DeepSeek 17
+
