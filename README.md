@@ -1,2 +1,10 @@
 # chatgptvsdeepseek
 ChatGPT vs DeepSeek test run
+
+Today I will test the ChatGPT 4.0 (Free version) versus the Deepseek R1 (Free version) on the Further Maths A Level 2024 November/December exam papers. This project aims to evaluate how well these AI tools perform when faced with challenging problems from an advanced mathematics curriculum. By comparing their abilities, accuracy, and explanations, we hope to understand their effectiveness in helping students prepare for high-stakes exams like A-Level Further Maths.
+
+The methodology is simple but thorough: identical exam questions will be presented to both AI models, covering key topics such as calculus, matrices, complex numbers, and proof-based problems. Their responses will be assessed based on correctness, the clarity of their solutions, and how effectively they explain their reasoning. Errors and limitations will also be noted, providing a fair comparison of their performance. Special emphasis will be placed on their ability to handle multi-step problems and abstract concepts that are typical in Further Maths.
+
+The results of this test will not only highlight which AI is better equipped to assist students in advanced mathematical studies but also shed light on areas where both tools can improve. For example, the ability to simplify explanations for students, handle nuanced mathematical language, and provide visual aids like graphs will all be evaluated. This comparison will help teachers, students, and researchers gauge the practical utility of these tools in academic settings.
+
+Ultimately, this repository will serve as a comprehensive analysis of ChatGPT and Deepseek in the context of Further Maths education. It will provide valuable insights for anyone interested in using AI for learning or teaching, especially in mathematics. Contributions and discussions are welcome as we aim to explore how AI can enhance the learning experience for complex academic subjects.
