@@ -37,3 +37,13 @@ Question 4b summary: Question 4b relies on the solution to 4a, as it uses the te
 Question 4c summary: the prompt asks to find the summation from r = n to r = n² of (5k)/((5r + k)(5r + 5 + k)) in terms of n. ChatGPT could not solve this problem because it failed to solve previous questions (4a and 4b). DeepSeek, building on the previous work, applied the telescoping series method, adjusting the limits of summation from r = n to r = n². It derived the sum as [k/(5n + k)] - [k/(5(n² + 1) + k)] and then substituted k = 5/2, the previously determined value for k, resulting in the simplified expression 1/(2n + 1) - 1/(2n² + 3). DeepSeek's solution was correct, and it scored the full marks for this question.
 
 Total Marks so far: ChatGPT 14, DeepSeek 35
+
+## Question 5
+
+Question 5a summary: The prompt asks to show that the Cartesian equation (x^2 + y^2)^2 = 6xy corresponds to the polar equation r^2 = 3 sin(2θ). ChatGPT correctly followed the steps to convert the Cartesian equation to polar form, starting with the substitution of x = r * cos(θ) and y = r * sin(θ), leading to the equation r^4 = 6r^2 * cos(θ) * sin(θ). After simplifying and using the double-angle identity sin(2θ) = 2 * sin(θ) * cos(θ), it arrived at the correct polar equation r^2 = 3 * sin(2θ). DeepSeek also reached the same conclusion with a detailed step-by-step solution, confirming the polar equation r^2 = 3 sin(2t). Both provided correct solutions, earning full marks.
+
+Question 5b summary: Both ChatGPT and DeepSeek provided correct solutions for finding the maximum distance of a point on the curve r² = 3 sin(2θ) from the pole, where 0 ≤ θ ≤ π/2. Both began by solving for r as r = √(3 sin(2θ)), then recognized that the maximum value of r occurs when sin(2θ) is maximized, which happens at θ = π/4, where sin(2θ) = 1. Substituting θ = π/4 into the equation gives r² = 3, so r = √3. Both also confirmed that the minimum values of r occur at θ = 0 and θ = π/2, where r = 0. Thus, the maximum distance from the pole is √3. Both answers were correct.
+
+Question 5c summary: Both ChatGPT and DeepSeek correctly calculated the area enclosed by the curve r² = 3 sin(2θ) for 0 ≤ θ ≤ π/2. They used the polar area formula, Area = 1/2 ∫[a to b] r² dθ, and substituted r² = 3 sin(2θ) into the equation. After integrating 3 sin(2θ) and evaluating the resulting expression at the limits θ = 0 and θ = π/2, both arrived at the same result: Area = 3/2. Both answers were correct.
+
+Total Marks so far: ChatGPT 21, DeepSeek 42
