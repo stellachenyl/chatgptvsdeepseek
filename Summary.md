@@ -46,4 +46,6 @@ Question 5b summary: Both ChatGPT and DeepSeek provided correct solutions for fi
 
 Question 5c summary: Both ChatGPT and DeepSeek correctly calculated the area enclosed by the curve r² = 3 sin(2θ) for 0 ≤ θ ≤ π/2. They used the polar area formula, Area = 1/2 ∫[a to b] r² dθ, and substituted r² = 3 sin(2θ) into the equation. After integrating 3 sin(2θ) and evaluating the resulting expression at the limits θ = 0 and θ = π/2, both arrived at the same result: Area = 3/2. Both answers were correct.
 
-Total Marks so far: ChatGPT 21, DeepSeek 42
+Question 5d summary: Both ChatGPT and DeepSeek attempted to find the maximum distance of a point on the curve C from the initial line. ChatGPT used the given polar equation r² = 3 sin(2θ) to calculate the maximum radial distance r, which occurs when θ = π/4, giving r = √3. DeepSeek, on the other hand, used a more detailed approach by first calculating the distance from the x-axis (D = r sin(θ)) and then maximizing D using trigonometric identities and derivatives. After solving for the critical point, DeepSeek found that the maximum distance is √(9√3/8). DeepSeek provided a more accurate and complete solution, earning full marks.
+
+Total Marks so far: ChatGPT 21, DeepSeek 47
