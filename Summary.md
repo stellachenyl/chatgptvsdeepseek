@@ -10,7 +10,7 @@ Question 1c Summary: The question requires finding the matrix that transforms th
 
 Question 1d Summary: This question asks for the possible values of k given that the area of the parallelogram P is 3k^2. Both ChatGPT and DeepSeek correctly identify that the area of P is related to the determinant of matrix M. ChatGPT finds the determinant of M and sets up the equation |k| = 3k^2 to solve for k. It solves the equation and provides k = 0, 1/3, and -1/3 as possible values. However, ChatGPT does not explain why k ≠ 0, which could lead to some ambiguity. DeepSeek, in contrast, goes into more detail, explaining both cases (k ≥ 0 and k < 0) and verifies the solutions. It provides the same values for k (1/3 and -1/3) and clarifies that both values are valid since the problem does not explicitly rule out negative k. DeepSeek provides a clearer and more detailed solution overall.
 
-Marks so far: ChatGPT 1, DeepSeek 10
+Total Marks so far: ChatGPT 1, DeepSeek 10
 
 ## Question 2
 
